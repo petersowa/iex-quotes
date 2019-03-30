@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  border: 1px black solid;
+}
+
+td {
+  vertical-align: top;
+  border: 1px black solid;
+}
+
+.IEXCredits {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
